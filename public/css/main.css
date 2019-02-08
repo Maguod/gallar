@@ -1,0 +1,12 @@
+.full {
+    width: 100%;
+}
+.button_group .btn:first-of-type {
+    margin-top: 10px;
+}
+.img_show {
+    display: block;
+    max-width: 300px;
+    height: auto;
+    margin: 0 auto;
+}
